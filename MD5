@@ -1,0 +1,15 @@
+500329e8973edfc6b731a953571e9efa *DESCRIPTION
+a7783903192f93d18aa98c019ad7514f *NAMESPACE
+d9f5b1c4cc186f0f6448910a387d0a77 *NEWS.md
+780dd978206ab8e28e75514153f71a35 *R/data.R
+f42d84d85f23c9c1db896ad7dcb104ce *R/smoothT.R
+e6aed47cf0ecfd1b5bdf70b2ed672053 *README.md
+3d1a72d021855ffa65c910d944bd837c *data/Chicago.RData
+e3a4ffdbccda49435fd1642373155c5e *man/Borda_count.Rd
+ec524063bcbfd296f934b02235f2ab2b *man/LSE.Rd
+82fe6066e7efbf575db55ccaefcbf6eb *man/Spectral.Rd
+421129103454e545b39721a2d1c8d2a4 *man/ltns.Rd
+23ac37be66d510fc9adf64fee9382763 *man/mode_info.Rd
+34b41602024f54c47eba760fcbba3ac2 *man/simulation.Rd
+0b54598dda3d5d6d88a8d238df4ad84a *man/simulation_asym.Rd
+daef100a5edf77386970b3637c533605 *man/simulation_bin.Rd
