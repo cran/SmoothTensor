@@ -39,5 +39,5 @@ mean((hatpTheta-psignal_T)^2)
 
 }
 \references{
-J. Xu. Rates of convergence of spectral methods for graphon estimation. International Conference on Machine Learning, 2018. \cr C. Lee and M. Wang. Smooth tensor estimation with unknown permutations. arXiv:2105.01783, 2021.
+J. Xu. Rates of convergence of spectral methods for graphon estimation. International Conference on Machine Learning, 2018. \cr C. Lee and M. Wang. Smooth tensor estimation with unknown permutations. arXiv:2111.04681, 2021.
 }

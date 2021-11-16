@@ -36,5 +36,5 @@ signal_tensor = sim1$signal
 permutation = sim1$permutation
 }
 \references{
-C. Lee and M. Wang. Smooth tensor estimation with unknown permutations. arXiv:2105.01783, 2021.
+C. Lee and M. Wang. Smooth tensor estimation with unknown permutations. arXiv:2111.04681, 2021.
 }
